@@ -1,6 +1,6 @@
 {
-  "homepage": "http://maithileev.github.io/calculator",
-  "name": "calculator",
+  "homepage": "http://maithileev.github.io/Calculator",
+  "name": "Calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
